@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wp-restroom-admin</string>
+    <string name="title_activity_main">wp-restroom-admin</string>
+    <string name="package_name">com.restroomadmin.app</string>
+    <string name="custom_url_scheme">com.restroomadmin.app</string>
+</resources>
